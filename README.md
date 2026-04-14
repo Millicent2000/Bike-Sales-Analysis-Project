@@ -12,7 +12,7 @@ The dataset contains customer information related to bike purchases, including:
 - Geographic data (region)
 - Behavioral data (commute distance, purchase decision)
 
-  ### Tools Used
+  ### Tool Used
   
 - Microsoft Excel
   - Data Cleaning (Find & Replace, removing duplicates)
@@ -20,7 +20,7 @@ The dataset contains customer information related to bike purchases, including:
   - Data Visualization (Pivot Chart)
   - Functions (e.g., IF formula)
 
-   ### 4. Data Cleaning and Preparation
+   ### Data Cleaning and Preparation
 
 To ensure data quality and consistency, the following steps were performed:
 
@@ -35,3 +35,53 @@ To ensure data quality and consistency, the following steps were performed:
 This improves readability and grouping in charts
 - Standardized text values:
   - Replaced “10+ miles” with “10 plus miles” for better compatibility with Pivot Tables
+ 
+### Exploratory Data Analysis (EDA)
+
+During EDA, the following were explored:
+
+- Distribution of customers by age group, gender, and region
+- Relationship between income and bike purchases
+- Commute distance patterns among customers
+- Purchase trends across demographic groups
+
+Pivot Tables were used to summarize and explore patterns before visualization.
+
+### Data Analysis (Charts Explanation)
+#### 1. Average Income Per Purchase (Bar Chart)
+
+##### Why this chart?
+A bar chart is ideal for comparing values across categories.
+
+##### What it shows:
+
+- Compares average income between customers who purchased bikes and those who did not
+- Also segmented by gender
+
+##### Insight purpose:
+To determine whether higher income influences bike purchases and identify differences between male and female customers.
+
+#### 2. Customer Commute (Line Chart)
+
+##### Why this chart?
+A line chart is useful for showing trends across ordered categories (age groups).
+
+##### What it shows:
+
+Bike purchases across different age brackets (Adolescent, Middle Age, Old)
+Comparison between customers who purchased and those who did not
+
+##### Insight purpose:
+To identify which age group is most likely to purchase bikes.
+
+#### 3. Customer Distance (Line Chart)
+
+##### Why this chart?
+Used to compare how commute distance affects purchasing decisions.
+
+##### What it shows:
+
+- Distribution of bike purchases across different commute distances
+
+##### Insight purpose:
+To understand whether people who travel longer distances are more likely to buy bikes.
