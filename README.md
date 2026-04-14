@@ -48,6 +48,7 @@ During EDA, the following were explored:
 Pivot Tables were used to summarize and explore patterns before visualization.
 
 ### Data Analysis (Charts Explanation)
+
 #### 1. Average Income Per Purchase (Bar Chart)
 
 ##### Why this chart?
@@ -102,3 +103,6 @@ To understand whether people who travel longer distances are more likely to buy 
 - Dataset is limited in size and may not represent real-world population
 - Missing external factors (e.g., weather, lifestyle, pricing)
 - Income alone may not fully explain purchasing behavior
+
+### Reference
+https://youtu.be/opJgMj1IUrc?si=b0VgAwfyI9OQmmso
