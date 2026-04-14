@@ -68,8 +68,8 @@ A line chart is useful for showing trends across ordered categories (age groups)
 
 ##### What it shows:
 
-Bike purchases across different age brackets (Adolescent, Middle Age, Old)
-Comparison between customers who purchased and those who did not
+- Bike purchases across different age brackets (Adolescent, Middle Age, Old)
+- Comparison between customers who purchased and those who did not
 
 ##### Insight purpose:
 To identify which age group is most likely to purchase bikes.
@@ -85,3 +85,20 @@ Used to compare how commute distance affects purchasing decisions.
 
 ##### Insight purpose:
 To understand whether people who travel longer distances are more likely to buy bikes.
+
+### Findings
+- Middle-aged customers are the most likely to purchase bikes
+- Customers with higher income show a higher tendency to purchase bikes
+- Commute distance has an impact on purchasing decisions
+- Gender differences exist in income and purchasing patterns
+
+### Recommendations
+- Target middle-aged customers in marketing campaigns
+- Focus on higher-income segments for premium bike sales
+- Promote bikes as a commuting solution for short-to-medium distances
+- Create gender-specific marketing strategies where necessary
+
+### Limitations
+- Dataset is limited in size and may not represent real-world population
+- Missing external factors (e.g., weather, lifestyle, pricing)
+- Income alone may not fully explain purchasing behavior
