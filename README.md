@@ -105,4 +105,10 @@ To understand whether people who travel longer distances are more likely to buy 
 - Income alone may not fully explain purchasing behavior
 
 ### Reference
-https://youtu.be/opJgMj1IUrc?si=b0VgAwfyI9OQmmso
+
+This project was inspired by the tutorial below:
+
+[https://youtu.be/opJgMj1IUrc?si=b0VgAwfyI9OQmmso]
+
+While the tutorial provided the foundation, I independently handled data cleaning, analysis, and dashboard creation.
+
